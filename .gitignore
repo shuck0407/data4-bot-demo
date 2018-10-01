@@ -1,7 +1,1 @@
-config.py
 
-# Twitter API Keys
-consumer_key = "CB70rllErFY57YEKfJAKV2txX"
-consumer_secret = "lrr1LdF9LuKLWr1vaweNkWVoOB8ued4bzEok3euUpx4usurPbx"
-access_token = "1031690698255286272-OuI1Mud8hHLV0zsQi3rYZu0Hn5cMGG"
-access_token_secret = "QkB4a7MgtII0mecfoYns6gvzpVF81LSOuMfalEjKd79aw"
